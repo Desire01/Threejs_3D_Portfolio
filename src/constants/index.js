@@ -229,9 +229,9 @@ const projects = [
     source_code_link: "https://nkwazimagazine.com/",
   },
   {
-    name: "GeoRetro",
+    name: "Memory Card Game",
     description:
-      "An online gaming platform that teaches about the earth and nature by swapping and matching information cards. Both online and offline",
+      "For the SpaceApps Challenge as part of the Geo-Retro Team we created a web and PC based matching game to test the player memory. Rating the user based on the number of moves they make. Used as an Educative Aid for Kids to help sharpen their memory and also to help teach them about Earth and Space through images. It Also Contains a Pc Version that pretty much has the same concept except in this one we added the Educative component after playing the game.",
     tags: [
       {
         name: "HTML",
