@@ -231,7 +231,7 @@ const projects = [
   {
     name: "Memory Card Game",
     description:
-      "As part of the Geo-Retro Team we created a web and PC based matching game to test the player memory. Rating the user based on the number of moves they make. Used as an Educative Aid for Kids to help sharpen their memory and also to help teach them about Earth and Space through images.",
+      "A Web and PC based matching game that tests player memory. Used as an Educative Aid for Kids to help sharpen their memory and teach them about Earth and Space.",
     tags: [
       {
         name: "HTML",
