@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "System Administration",
+    title: "System Administrator",
     icon: backend,
   },
   {
